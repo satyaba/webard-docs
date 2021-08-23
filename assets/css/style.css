@@ -1,0 +1,35 @@
+.bg-primer {
+  background-color: rgb(3, 20, 43);
+  color: white;
+}
+
+.hero {
+  background-color: rgb(3, 20, 43);
+  width: 100%;
+  height: 100vh;
+  color: white;
+  padding: 1rem 0rem;
+}
+
+.headline-row {
+  height: 50%;
+}
+
+.headline-graphic {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(45deg, rgb(6, 110, 247), rgb(30, 144, 238));
+  border-radius: 10px;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.section {
+  padding: 2rem 0rem;
+}
+
+.standard-section {
+  margin-top: 2rem;
+}

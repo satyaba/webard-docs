@@ -1,0 +1,29 @@
+{
+    "pages": [
+        {
+            "name": "Tutorial",
+            "route": "tutorial",
+            "document": "tutorial.md",
+            "child-pages": []
+        },
+        {
+            "name": "How to",
+            "route": "how-to",
+            "document": "how-to.md",
+            "child-pages": []
+        },
+        {
+            "name": "Example: Bootstrap Docs",
+            "route": "example-bootstrap",
+            "document": "example-bootstrap.md",
+            "child-pages": []
+        }
+        ,
+        {
+            "name": "Example: Node.js Docs",
+            "route": "example-nodejs",
+            "document": "example-nodejs.md",
+            "child-pages": []
+        }
+    ]
+}
